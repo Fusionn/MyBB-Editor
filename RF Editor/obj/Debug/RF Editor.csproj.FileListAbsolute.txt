@@ -1,0 +1,14 @@
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\bin\Debug\RF Editor.exe.config
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\bin\Debug\RF Editor.exe
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\bin\Debug\RF Editor.pdb
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\bin\Debug\MaterialSkin.dll
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\bin\Debug\MaterialSkin.pdb
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF Editor.csprojResolveAssemblyReference.cache
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF_Editor.Form1.resources
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF_Editor.Properties.Resources.resources
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF Editor.csproj.GenerateResource.Cache
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF Editor.exe
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF Editor.pdb
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF_Editor.Form2.resources
+c:\users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF_Editor.Form3.resources
+C:\Users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Debug\RF_Editor.Form4.resources
