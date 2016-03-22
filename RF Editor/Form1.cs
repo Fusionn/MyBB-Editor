@@ -19,8 +19,9 @@ namespace RF_Editor
         MaterialSkinManager materialSkinManager;
         bool focus;
         public Form5 f5 = new Form5();
+        Form7 f7 = new Form7();
         Form6 f6 = new Form6();
-        string version = "1.00b";
+        string version = "1.01b";
         public Form1()
         {
             InitializeComponent();
@@ -363,7 +364,12 @@ namespace RF_Editor
         {
             if (lp_on.Checked)
             {
+                f5.on = true;
                 f5.fuckme = richTextBox1.Text;
+            }
+            else
+            {
+                f5.on = false;
             }
         }
 
@@ -384,6 +390,23 @@ namespace RF_Editor
                 writer.Close();
             }
 
+        }
+
+        private void materialRaisedButton13_Click(object sender, EventArgs e)
+        {
+            f7.ShowDialog();
+            if (f7.preset == null)
+            {
+
+            }
+            else
+            {
+                string[] test = f7.preset.Split(new[] { " + Enviornment.NewLine + " }, StringSplitOptions.None);
+                for (int i = 0, n = test.Length; i < n; i++)
+                {
+                    richTextBox1.AppendText(test[i] + Environment.NewLine);
+                }
+            }
         }
     }
 }

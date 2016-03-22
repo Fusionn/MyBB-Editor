@@ -14,3 +14,5 @@ C:\Users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Relea
 C:\Users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Release\RF Editor.csprojResolveAssemblyReference.cache
 C:\Users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Release\RF_Editor.Form5.resources
 C:\Users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Release\RF_Editor.Form6.resources
+C:\Users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Release\RF_Editor.Form7.resources
+C:\Users\sdl\documents\visual studio 2015\Projects\RF Editor\RF Editor\obj\Release\RF_Editor.Form8.resources

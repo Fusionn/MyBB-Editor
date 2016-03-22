@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template>
+    <name></name>
+    <desc></desc>
+    <temp />
+  </template>
+  <template>
+    <name></name>
+    <desc></desc>
+    <temp />
+  </template>
+  <template>
+    <name>Tes</name>
+    <desc>test</desc>
+    <temp>[img]http://i.imgur.com/7lH7LPj.gif[/img] + Enviornment.NewLine + </temp>
+  </template>
+  <template>
+    <name>Example</name>
+    <desc>Example Data</desc>
+    <temp>[b]Made by using @"Fusion"s RF Editor[/b] + Enviornment.NewLine + </temp>
+  </template>
+</templates>

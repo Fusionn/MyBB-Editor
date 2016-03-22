@@ -56,6 +56,7 @@
             this.lp_off = new MaterialSkin.Controls.MaterialRadioButton();
             this.lp_on = new MaterialSkin.Controls.MaterialRadioButton();
             this.materialRaisedButton12 = new MaterialSkin.Controls.MaterialRaisedButton();
+            this.materialRaisedButton13 = new MaterialSkin.Controls.MaterialRaisedButton();
             this.SuspendLayout();
             // 
             // buttonBold
@@ -426,11 +427,26 @@
             this.materialRaisedButton12.UseVisualStyleBackColor = true;
             this.materialRaisedButton12.Click += new System.EventHandler(this.materialRaisedButton12_Click);
             // 
+            // materialRaisedButton13
+            // 
+            this.materialRaisedButton13.Depth = 0;
+            this.materialRaisedButton13.Font = new System.Drawing.Font("Open Sans Extrabold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.materialRaisedButton13.Location = new System.Drawing.Point(252, 99);
+            this.materialRaisedButton13.MouseState = MaterialSkin.MouseState.HOVER;
+            this.materialRaisedButton13.Name = "materialRaisedButton13";
+            this.materialRaisedButton13.Primary = true;
+            this.materialRaisedButton13.Size = new System.Drawing.Size(90, 25);
+            this.materialRaisedButton13.TabIndex = 26;
+            this.materialRaisedButton13.Text = "Templates";
+            this.materialRaisedButton13.UseVisualStyleBackColor = true;
+            this.materialRaisedButton13.Click += new System.EventHandler(this.materialRaisedButton13_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(896, 524);
+            this.Controls.Add(this.materialRaisedButton13);
             this.Controls.Add(this.materialRaisedButton12);
             this.Controls.Add(this.lp_on);
             this.Controls.Add(this.lp_off);
@@ -496,6 +512,7 @@
         private MaterialSkin.Controls.MaterialRadioButton lp_off;
         private MaterialSkin.Controls.MaterialRadioButton lp_on;
         private MaterialSkin.Controls.MaterialRaisedButton materialRaisedButton12;
+        private MaterialSkin.Controls.MaterialRaisedButton materialRaisedButton13;
     }
 }
 
