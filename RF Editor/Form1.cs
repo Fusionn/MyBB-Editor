@@ -21,7 +21,7 @@ namespace RF_Editor
         public Form5 f5 = new Form5();
         Form7 f7 = new Form7();
         Form6 f6 = new Form6();
-        string version = "1.01b";
+        string version = "1.02b";
         public Form1()
         {
             InitializeComponent();

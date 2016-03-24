@@ -1,14 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <templates>
   <template>
-    <name></name>
-    <desc></desc>
-    <temp />
-  </template>
-  <template>
-    <name></name>
-    <desc></desc>
-    <temp />
+    <name>Tes</name>
+    <desc>testt</desc>
+    <temp>testt + Enviornment.NewLine + </temp>
   </template>
   <template>
     <name>Tes</name>

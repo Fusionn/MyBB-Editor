@@ -57,6 +57,11 @@ namespace Cyotek.Web.BbCodeFormatter
       _formatters.Add(new RegexFormatter(@"\[quote(?:\s*)\]", "<div class=\"bbc-quotecontent\"><p>"));
       _formatters.Add(new RegexFormatter(@"\[/quote(?:\s*)\]", "</p></div>"));
 
+      _formatters.Add(new RegexFormatter(@"\:cool:", "<img src=\"http://www.realforums.org/images/Smilies2/dirol.gif\" alt=\":cool:\" title=\":cool:\" class=\"smilie smilie_74\">"));
+      _formatters.Add(new RegexFormatter(@"\:blush:", "<img src=\"http://www.realforums.org/images/Smilies2/yWRAP8W.png\" alt=\":blush:\" title=\":blush:\" class=\"smilie smilie_75\">"));
+      _formatters.Add(new RegexFormatter(@"\:heart:", "<img src=\"http://www.realforums.org/images/Smilies2/bookmark_toolbar.png\" alt=\":heart:\" title=\":heart:\" class=\"smilie smilie_61\">"));
+      _formatters.Add(new RegexFormatter(@"\:roflamo:", "<img src=\"http://www.realforums.org/images/Smilies2/roflamo.gif\" alt=\":roflmao:\" title=\":roflmao:\" class=\"smilie smilie_76\">"));
+      _formatters.Add(new RegexFormatter(@"\:cry:", "<img src=\"http://www.realforums.org/images/Smilies2/bebe-pleure.gif\" alt=\":cry:\" title=\":cry:\" class=\"smilie smilie_69\">"));
 
       _formatters.Add(new RegexFormatter(@"\[video=youtube]((.|\n)*?)\[/video]", "<iframe width=\"560\" height=\"315\" src=\"$1\" frameborder=\"0\" allowfullscreen></iframe>"));
 
